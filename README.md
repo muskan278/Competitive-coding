@@ -27,7 +27,11 @@
 10. <a href="https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1">Merge two sorted arrays</a>
 <!-- 7. <a href=""></a> -->
 
+## String
+1. <a href="https://practice.geeksforgeeks.org/problems/reverse-a-string/1">Reverse of an array or string</a>
+   <br><a href="https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/">Reverse of an array or string using recursion</a>
 
+2. <a href="https://practice.geeksforgeeks.org/problems/palindrome-string0817/1#">Check if given string is palindrome or not</a>
 
 <a href="https://docs.google.com/spreadsheets/d/1sNQ4fN8QJIvOR842DedoHLrUroHtLVIgHNXpOet4N3w/edit?usp=sharing">Sheet</a>
 
