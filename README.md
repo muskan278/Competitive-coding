@@ -21,6 +21,8 @@
 7. <a href="https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/">Largest Sum Contiguous Subarray(Kadan's Algorithm)</a>
 
 8. <a href="https://www.geeksforgeeks.org/minimum-number-jumps-reach-endset-2on-solution/">Minimum number of jumps to reach end (O(n) solution)</a>
+
+9. <a href="https://leetcode.com/problems/find-the-duplicate-number/">Find the Duplicate Number</a>
 <!-- 7. <a href=""></a> -->
 
 
