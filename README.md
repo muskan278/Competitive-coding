@@ -14,8 +14,9 @@
 
 4. <a href="https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0">Union of two arrays</a>
 
+5. <a href="https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/">Maximum and minimum of an array using minimum number of comparisons</a>
 
-
+<!-- 6. <a href=""></a> -->
 
 
 
