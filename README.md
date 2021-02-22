@@ -16,8 +16,10 @@
 
 5. <a href="https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/">Maximum and minimum of an array using minimum number of comparisons</a>
 
-7. <a href="https://practice.geeksforgeeks.org/viewSol.php?subId=f77f1e97d89b4cca7b43e7cc019f872a&pid=703298&user=muskan278">Cyclically rotate an array by k times</a>
-<!-- 6. <a href=""></a> -->
+6. <a href="https://practice.geeksforgeeks.org/viewSol.php?subId=f77f1e97d89b4cca7b43e7cc019f872a&pid=703298&user=muskan278">Cyclically rotate an array by k times</a>
+
+7. <a href="https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/">Largest Sum Contiguous Subarray(Kadan's Algorithm)</a>
+<!-- 7. <a href=""></a> -->
 
 
 
