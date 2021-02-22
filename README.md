@@ -23,6 +23,8 @@
 8. <a href="https://www.geeksforgeeks.org/minimum-number-jumps-reach-endset-2on-solution/">Minimum number of jumps to reach end (O(n) solution)</a>
 
 9. <a href="https://leetcode.com/problems/find-the-duplicate-number/">Find the Duplicate Number</a>
+
+10. <a href="https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1">Merge two sorted arrays</a>
 <!-- 7. <a href=""></a> -->
 
 
