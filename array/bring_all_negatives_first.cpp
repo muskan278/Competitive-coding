@@ -21,7 +21,6 @@ public:
            else if(a[left]>0 && a[right]>0)
            {
                right--;
-
            }
            else if(a[left]<0 && a[right]<0)
            {

@@ -29,6 +29,14 @@
 
 10. <a href="https://www.geeksforgeeks.org/minimize-the-maximum-difference-between-the-heights/">Minimise the heights</a>
 
+11. <a href="https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1#">Count pairs with given sum</a>
+
+12. <a href="https://www.geeksforgeeks.org/subarray-of-size-k-with-given-sum/">Subarray of size k with given sum (Sliding window protocol)</a>
+
+13. <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time to Buy and Sell stock (valley peak approach)</a>
+
+14. <a href="https://www.geeksforgeeks.org/rearrange-array-in-alternating-positive-negative-items-with-o1-extra-space-set-2/">Rearrange array in alternating positive & negative items with O(1) extra space</a>
+
 <!-- 7. <a href=""></a> -->
 
 ## String
