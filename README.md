@@ -13,18 +13,22 @@
 3. <a href="https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1">Sort an array of 0s, 1s and 2s</a>
 
 4. <a href="https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0">Union of two arrays</a>
+<a href="">Intersection of two arrays</a>
 
 5. <a href="https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/">Maximum and minimum of an array using minimum number of comparisons</a>
 
 6. <a href="https://practice.geeksforgeeks.org/viewSol.php?subId=f77f1e97d89b4cca7b43e7cc019f872a&pid=703298&user=muskan278">Cyclically rotate an array by k times</a>
 
-7. <a href="https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/">Largest Sum Contiguous Subarray(Kadan's Algorithm)</a>
+7. <a href="https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/">Kadane's Algorithm (Largest Sum Contiguous Subarray also store indices)</a>
 
 8. <a href="https://www.geeksforgeeks.org/minimum-number-jumps-reach-endset-2on-solution/">Minimum number of jumps to reach end (O(n) solution)</a>
 
 9. <a href="https://leetcode.com/problems/find-the-duplicate-number/">Find the Duplicate Number</a>
 
 10. <a href="https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1">Merge two sorted arrays</a>
+
+10. <a href="https://www.geeksforgeeks.org/minimize-the-maximum-difference-between-the-heights/">Minimise the heights</a>
+
 <!-- 7. <a href=""></a> -->
 
 ## String
