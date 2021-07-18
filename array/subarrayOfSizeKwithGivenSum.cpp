@@ -1,7 +1,7 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 bool checkSubarraySum(int a[],int n, int k,int req_sum) {
-    int sum=0,c=0;
+    int sum=0;
     for(int i=0;i<k;i++)
         sum+=a[i];
     if(sum==req_sum)
@@ -13,7 +13,7 @@ bool checkSubarraySum(int a[],int n, int k,int req_sum) {
         if(sum==req_sum)
             return true;
     }
-    return c;
+    return false;
 }
 
 int main()
