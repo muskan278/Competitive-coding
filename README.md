@@ -84,6 +84,28 @@
 
 <!-- 7. <a href=""></a> -->
 
+## Matrix
+1. <a href="https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0">Spiral traversal on a Matrix</a>
+
+2. <a href="https://leetcode.com/problems/search-a-2d-matrix/">Search an element in a matrix</a>
+
+3. <a href="https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1">Find median in a row wise sorted matrix</a>
+
+4. <a href="https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1">Find row with maximum no. of 1's</a>
+ 
+5. <a href="https://practice.geeksforgeeks.org/problems/sorted-matrix/0">Print elements in sorted order using row-column wise sorted matrix</a>
+
+<!-- 6. <a href="https://practice.geeksforgeeks.org/problems/max-rectangle/1">Maximum size rectangle</a> -->
+
+7. <a href="https://www.geeksforgeeks.org/find-a-specific-pair-in-matrix/">Find a specific pair in matrix</a>
+
+8. <a href="https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/">Rotate matrix by 90 degrees</a>
+
+9. <a href="https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1">Kth smallest element in a row-column wise sorted matrix</a>
+
+10. <a href="https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/">Common elements in all rows of a given matrix</a>
+
+
 ## String
 1. <a href="https://practice.geeksforgeeks.org/problems/reverse-a-string/1">Reverse of an array or string</a>
    <br><a href="https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/">Reverse of an array or string using recursion</a>
