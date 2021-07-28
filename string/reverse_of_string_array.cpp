@@ -4,12 +4,7 @@ using namespace std;
 string reverseWord(string str){
     int start=0,end=str.length()-1;
     while(start<end)
-    {
-        char temp=str[start];
-        str[start]=str[end];
-        str[end]=temp;
-        start++;end--;
-    }
+    swap(str[start++],str[end--]);
     
     return(str);
 }
@@ -19,9 +14,9 @@ int main() {
 	cin>>t;
 	while(t--)
 	{
-	string s;
-	cin >> s;
-	cout << reverseWord(s) << endl;
+        string s;
+        cin >> s;
+        cout << reverseWord(s) << endl;
 	}
 	return 0;
 }
